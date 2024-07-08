@@ -8,7 +8,7 @@ After cloning the repository, open your framework and type the following command
 
 First, install Node Package Manager in your framework:
 ```bash
-NPM init -y
+npm init -y
 ```
 Then, nstall Cypress into your framework using the following command:
 ```bash
